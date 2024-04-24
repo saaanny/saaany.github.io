@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'poppins',sans-serif;
     box-sizing: border-box;
+
 }
 body {
     background: #080808;
@@ -338,5 +339,9 @@ html{
     scroll-behavior: smooth;
 }
 
+.copyright{
+    background-color: #3c3535;
+}
 
+/* THIS IS FOR MY 2ND PAGE MEHEHE */
 
